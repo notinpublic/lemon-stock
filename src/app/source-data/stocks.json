@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Jelly Cat",
+    "symbol": "JLC",
+    "active": true
+  },
+  {
+    "name": "Alexander McQueen",
+    "symbol": "AMQ",
+    "active": true
+  },
+  {
+    "name": "Balenciaga",
+    "symbol": "BAL",
+    "active": true
+  },
+  {
+    "name": "Gucci",
+    "symbol": "GUC",
+    "active": true
+  },
+  {
+    "name": "Saint Laurent",
+    "symbol": "SLT",
+    "active": true
+  },
+  {
+    "name": "Off-White",
+    "symbol": "OFW",
+    "active": true
+  },
+  {
+    "name": "Burberry",
+    "symbol": "BUR",
+    "active": true
+  },
+  {
+    "name": "Chanel",
+    "symbol": "CHN",
+    "active": true
+  },
+  {
+    "name": "Versace",
+    "symbol": "VRS",
+    "active": true
+  },
+  {
+    "name": "Fendi",
+    "symbol": "FEN",
+    "active": true
+  },
+  {
+    "name": "Prada",
+    "symbol": "PRD",
+    "active": true
+  },
+  {
+    "name": "Dior",
+    "symbol": "DIO",
+    "active": true
+  },
+  {
+    "name": "Givenchy",
+    "symbol": "GVN",
+    "active": true
+  },
+  {
+    "name": "Valentino",
+    "symbol": "VAL",
+    "active": true
+  },
+  {
+    "name": "Tom Ford",
+    "symbol": "TFD",
+    "active": true
+  },
+  {
+    "name": "Stella McCartney",
+    "symbol": "STM",
+    "active": true
+  },
+  {
+    "name": "Moncler",
+    "symbol": "MON",
+    "active": true
+  },
+  {
+    "name": "Bottega Veneta",
+    "symbol": "BOT",
+    "active": true
+  },
+  {
+    "name": "Jimmy Choo",
+    "symbol": "JMC",
+    "active": true
+  },
+  {
+    "name": "Dolce & Gabbana",
+    "symbol": "D&G",
+    "active": true
+  },
+  {
+    "name": "Balmain",
+    "symbol": "BLM",
+    "active": true
+  }
+]

@@ -44,6 +44,7 @@ Mock stock market
 - [`Prettier`](https://prettier.io)
 - [`ESLint`](https://eslint.org)
 - [`tailwindcss`](https://tailwindcss.com)
+- [`React Feather`](https://feathericons.com/)
 
 ## Getting Started
 
@@ -65,3 +66,7 @@ Open `http://localhost:{port}` with your browser to see the result.
 
 Format codebase with Prettier  
 `yarn format`
+
+## Credits
+
+Lemon Pixel Art - [@SketchyKathy](https://giphy.com/stickers/transparent-COaCSTLx5XaG9sNMa6)

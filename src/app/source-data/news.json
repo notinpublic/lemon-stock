@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Big Ben Gets Stuck in Snooze Mode",
+    "date": 1692942900000,
+    "details": "Big Ben's chimes oversleep, causing citywide confusion.",
+    "id": 1
+  },
+  {
+    "title": "Pigeons Take Over Trafalgar Square",
+    "date": 1693029300000,
+    "details": "Pigeons declare Trafalgar Square an independent bird nation.",
+    "id": 2
+  },
+  {
+    "title": "Tube Delayed by Tea Party",
+    "date": 1693115700000,
+    "details": "Underground passengers host impromptu tea party on the Central Line.",
+    "id": 3
+  },
+  {
+    "title": "London Bridge Sold on eBay",
+    "date": 1693202100000,
+    "details": "Mysterious bidder wins London Bridge for £1.50 on eBay.",
+    "id": 4
+  },
+  {
+    "title": "Royal Guards Break into Dance",
+    "date": 1693288500000,
+    "details": "Changing of the Guard turns into a flash mob at Buckingham Palace.",
+    "id": 5
+  }
+]
